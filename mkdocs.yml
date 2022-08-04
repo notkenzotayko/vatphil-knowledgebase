@@ -32,6 +32,22 @@ theme:
     - search.share
   favicon: assets/img/favicon.ico
 
+  palette:
+    - scheme: czqo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: 
+      accent: 
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode    
+      primary: amber
+      accent: amber    
+
+
+
 
 extra_css:
   - stylesheets/vatphil.css
