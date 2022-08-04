@@ -1,0 +1,6 @@
+nav:
+    - Start here: index.md
+    - Departure: departure
+    - Arrival: arrival
+    - Facility Frequency: nattrak
+    - CPDLC / PDC: cpdlc-pdc.md
