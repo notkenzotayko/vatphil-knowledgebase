@@ -1,0 +1,62 @@
+# Project Information
+site_name: Philippines vACC Knowledge Base
+site_url: 
+site_author: Kenzo Tayko, Emilio Perez & Michael Uy
+edit_uri: edit/main/docs/
+copyright: Copyright © 2022 Philippines vACC. All rights reserved. The information contained on this website is for flight simulation purposes only.
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized
+  - mike
+
+  
+# Configuration
+theme:
+  name: material
+  font:
+    text: Mulish
+  palette:
+    - scheme: czqo
+    
+  logo: assets/img/logo.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking    
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+  favicon: assets/img/favicon.ico
+
+
+extra_css:
+  - stylesheets/vatphil.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/vatsimph
+    - icon: fontawesome/brands/facebook 
+      link: https://facebook.com/philippinesvacc
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/vatphil
+    - icon: material/home
+      link: https://vatphil.com
+      name: Philippines vACC Main Website
+  version:
+    provider: mike
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+repo_url: https://github.com/vatsimph/PH-VFPC
+repo_name: vatsimph/knowledgebase
