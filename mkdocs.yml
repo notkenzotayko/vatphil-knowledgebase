@@ -38,7 +38,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
       primary: 
-      accent: 
+      accent: amber
     - scheme: slate 
       toggle:
         icon: material/brightness-4
@@ -74,5 +74,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-repo_url: https://github.com/vatsimph/PH-VFPC
+repo_url: https://github.com/notkenzotayko/vatphil-knowledgebase
 repo_name: vatsimph/knowledgebase
