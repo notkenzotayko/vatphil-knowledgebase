@@ -1,6 +1,7 @@
 nav:
     - Welcome: index.md
     - Pilots: pilots
-    - Oceanic Controllers: atc
+    - Controllers: atc
+    - NOTAMS: notams
     - Website: website
     - More Resources: more-resources.md
