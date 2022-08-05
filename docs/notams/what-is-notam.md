@@ -32,6 +32,7 @@ Full details concerning the content and distribution of NOTAMs, SNOWTAMs and ASH
 ### Further Reading
 
 ```ICAO Annex 15: Aeronautical Information Services, Chapter 5 and Appendices 2, 3 & 6.```
+
 [EUROCONTROL Digital NOTAM Web site](https://www.ead.eurocontrol.int/cms-eadbasic/opencms/en/ead-evolutions/digital-notam/)
 [EUCONTROL Digital Notam Brochure](https://skybrary.aero/bookshelf/books/2073.pdf)
 [EUROCONTROL SNOWTAM Harmonisation Guidelines](https://skybrary.aero/bookshelf/books/2074.pdf)
