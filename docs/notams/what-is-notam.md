@@ -29,9 +29,9 @@ Snow conditions are notified, not by NOTAM but by a special message called [SNOW
 
 Full details concerning the content and distribution of NOTAMs, SNOWTAMs and ASHTAMs are contained in ```ICAO Annex 15```.
 
-## Further Reading
+### Further Reading
 
-ICAO Annex 15: Aeronautical Information Services, Chapter 5 and Appendices 2, 3 & 6.
+```ICAO Annex 15: Aeronautical Information Services, Chapter 5 and Appendices 2, 3 & 6.```
 [EUROCONTROL Digital NOTAM Web site](https://www.ead.eurocontrol.int/cms-eadbasic/opencms/en/ead-evolutions/digital-notam/)
 [EUCONTROL Digital Notam Brochure](https://skybrary.aero/bookshelf/books/2073.pdf)
 [EUROCONTROL SNOWTAM Harmonisation Guidelines](https://skybrary.aero/bookshelf/books/2074.pdf)
