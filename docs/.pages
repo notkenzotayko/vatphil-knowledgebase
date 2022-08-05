@@ -3,5 +3,4 @@ nav:
     - Pilots: pilots
     - Controllers: atc
     - NOTAMS: notams
-    - Website: website
     - More Resources: more-resources.md

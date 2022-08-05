@@ -3,4 +3,5 @@ nav:
     - Departure: departure
     - Arrival: arrival
     - Facility Frequency: facility-frequency
+    - Resources: resources
     - CPDLC / PDC: cpdlc-pdc.md
