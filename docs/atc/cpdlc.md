@@ -15,13 +15,15 @@ In the window, enter your Hoppie's [logon code](https://www.hoppie.nl/acars/syst
 
 *Datalink authorities*
 
-* NAT_FSS: NATX
-* CZQO_CTR/DEL: CZQX
-* EGGX_CTR/DEL: EGGX
+* MNL_CTR: RPHX
+* RPLL_APP/TWR/GND/DEL: RPLX
+* RPVM_APP/TWR/GND/DEL: RPVX
+* RPMD_APP/TWR: RPMX
 
 !!! warning
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue quis metus non consequat. Integer placerat nec dolor nec auctor. Duis et viverra quam, quis dapibus lorem. Sed sit amet ullamcorper odio, ac elementum nunc.
+    CPDLC is available on some airport within Manila FIR, such as RPLL, RPVM, and RPMD. The other airport uses the other clearance receiving system - which is PDC
+
 
 ## Using the client
 
