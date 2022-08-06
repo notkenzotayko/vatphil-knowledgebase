@@ -17,8 +17,6 @@ theme:
   name: material
   font:
     text: Mulish
-  palette:
-    - scheme: czqo
     
   logo: assets/img/logo.png
   features:
@@ -33,7 +31,7 @@ theme:
   favicon: assets/img/favicon.ico
 
   palette:
-    - scheme: czqo
+    - scheme: vatphil
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
