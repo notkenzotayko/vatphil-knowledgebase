@@ -5,4 +5,4 @@ mkdocs-redirects
 mkdocs-exclude-search
 mkdocs-embed-external-markdown
 mike
-pyyaml
+mkdocs-i18n

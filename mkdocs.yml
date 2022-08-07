@@ -10,8 +10,30 @@ plugins:
   - awesome-pages
   - git-revision-date-localized
   - mike
+  - i18n:
+      languages:
+        ca: "Català"
+        es: "Castellano"
+        en: "English"
+      default_language: 'en'
+      no_translation:
+        ca: "Aquesta pàgina no està traduida al català."
+        en: "This page isn't translated to English."
+        es: "Esta página no está traducida al castellano."
+      translate_nav:
+        ca:
+          section title: "Secció"
+          subsection: "Subsecció"
+          page title: "Pàgina amb títol traduit"
+        en:
+          section title: "Section"
+          subsection: "Subsection"
+          page title: "Page with title translated"
+        es:
+          section title: "Sección"
+          subsection: "Subsección"
+          page title: "Página con título traducido"
 
-  
 # Configuration
 theme:
   name: material
