@@ -5,4 +5,3 @@ mkdocs-redirects
 mkdocs-exclude-search
 mkdocs-embed-external-markdown
 mike
-mkdocs-i18n
