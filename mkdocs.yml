@@ -14,13 +14,14 @@ plugins:
 # Configuration
 theme:
   name: material
-  icon: 
-    repo: fontawesome/brands/github
   font:
     text: Mulish
 
   palette:
-    scheme: vatphil
+    - scheme: vatphil
+      primary: 
+      accent: 
+
 
   logo: assets/img/logo.png
   features:
@@ -41,10 +42,13 @@ extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/vatsimph
+      name: Github Organization
     - icon: fontawesome/brands/facebook 
       link: https://facebook.com/philippinesvacc
+      name: Facebook Page
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/vatphil
+      name: Instagram
     - icon: material/home
       link: https://vatphil.com
       name: Philippines vACC Main Website
