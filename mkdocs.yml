@@ -14,7 +14,6 @@ plugins:
   
 # Configuration
 theme:
-  language: en
   name: material
   font:
     text: Mulish
@@ -49,9 +48,25 @@ theme:
     - name: English
       link: /en/ 
       lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de 
+    - name: Indonesian
+      link: /id/
+      lang: id
+    - name: Japanese
+      link: /ja/
+      lang: ja
+    - name: Korean
+      link: /kr/
+      lang: kr
+    - name: Bahasa Malaysia
+      link: /ms/
+      lang: ms
+    - name: Vietnamese
+      link: /vi/
+      lang: vi
+    - name: Chinese (Simplified)
+      link: /zh/
+      lang: zh
+
 
 
 
