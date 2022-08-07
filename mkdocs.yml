@@ -23,7 +23,7 @@ theme:
       accent: amber
 
 
-  logo: assets/img/logo.png
+  logo: assets/img/vatphil-wlogo.png
   features:
     - navigation.instant
     - navigation.tabs
