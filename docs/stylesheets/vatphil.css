@@ -1,3 +1,9 @@
+:root > * {
+  --md-primary-fg-color:        #8c7804;
+  --md-primary-fg-color--light: #d9d61c;
+  --md-primary-fg-color--dark:  #403c01;
+}
+
 [data-md-color-scheme="vatphil"] {
   --md-primary-fg-color:        #8c7804;
   --md-primary-fg-color--light: #d9d61c;
