@@ -12,7 +12,7 @@
 | **RPVB_TWR** | Bacolod Tower | 118.800 MHz |
 | **RPVB_APP** | Bacolod Approach | 121.000 MHz |
 
-## RPVC - CaVMayog Airport
+## RPVC - Calbayog Airport
 | Callsign | Position | Frequency |
 | --- | --- | --- |
 | **RPVC_R_APP** | CaVMayog Radio | 122.100 MHz |
