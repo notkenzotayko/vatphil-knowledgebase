@@ -14,6 +14,7 @@ plugins:
   
 # Configuration
 theme:
+  language: en
   name: material
   font:
     text: Mulish
@@ -42,7 +43,15 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode    
       primary: amber
-      accent: amber    
+      accent: amber   
+
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de 
 
 
 
