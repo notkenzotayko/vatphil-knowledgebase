@@ -1,6 +1,6 @@
 # Project Information
 site_name: Philippines vACC Knowledge Base
-site_url: 
+site_url: https://learn.vatphil.com
 site_author: Kenzo Tayko, Emilio Perez & Michael Uy
 edit_uri: edit/main/docs/
 copyright: Copyright © 2022 Philippines vACC. All rights reserved. The information contained on this website is for flight simulation purposes only.
@@ -18,7 +18,10 @@ theme:
     repo: fontawesome/brands/github
   font:
     text: Mulish
-    
+
+  palette:
+    scheme: vatphil
+
   logo: assets/img/logo.png
   features:
     - navigation.instant
@@ -30,9 +33,6 @@ theme:
     - search.highlight
     - search.share
   favicon: assets/img/favicon.ico
-
-  palette:
-    scheme: vatphil
 
 extra_css:
   - stylesheets/vatphil.css

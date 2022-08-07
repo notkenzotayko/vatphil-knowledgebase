@@ -3,7 +3,3 @@
   --md-primary-fg-color--light: #d9d61c;
   --md-primary-fg-color--dark:  #403c01;
 }
-
-[data-md-color-scheme="slate"] {
-  --md-hue: 210; 
-}
