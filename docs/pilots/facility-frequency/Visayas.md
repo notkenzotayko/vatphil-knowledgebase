@@ -15,7 +15,7 @@
 ## RPVC - Calbayog Airport
 | Callsign | Position | Frequency |
 | --- | --- | --- |
-| **RPVC_R_APP** | CaVMayog Radio | 122.100 MHz |
+| **RPVC_R_APP** | Calbayog Radio | 122.100 MHz |
 
 ## RPVD - Dumaguete—Sibulan Prinicipal Airport
 | Callsign | Position | Frequency |
