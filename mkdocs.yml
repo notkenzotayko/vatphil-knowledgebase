@@ -37,6 +37,28 @@ extra_css:
   - stylesheets/vatphil.css
 
 extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Indonesian
+      link: /id/
+      lang: id
+    - name: Japanese
+      link: /ja/
+      lang: ja
+    - name: Korean
+      link: /kr/
+      lang: kr
+    - name: Bahasa Malaysia
+      link: /ms/
+      lang: ms
+    - name: Vietnamese
+      link: /vi/
+      lang: vi
+    - name: Chinese (Simplified)
+      link: /zh/
+      lang: zh
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/vatsimph
@@ -64,29 +86,6 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target=_blank>feedback form</a>.
             
- alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Indonesian
-      link: /id/
-      lang: id
-    - name: Japanese
-      link: /ja/
-      lang: ja
-    - name: Korean
-      link: /kr/
-      lang: kr
-    - name: Bahasa Malaysia
-      link: /ms/
-      lang: ms
-    - name: Vietnamese
-      link: /vi/
-      lang: vi
-    - name: Chinese (Simplified)
-      link: /zh/
-      lang: zh
-
   consent:
     title: Cookie consent
     description: >- 
